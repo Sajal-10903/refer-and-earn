@@ -16,5 +16,3 @@ Create a Npm node modules folder by the bash code :- npm install
 1. Clone the repository:
    ```sh
    git clone https://github.com/your-username/refer-and-earn.git
-
-   Create a Npm node modules folder by the bash code :- npm install
